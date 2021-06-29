@@ -4,7 +4,6 @@ import json
 #from bson.json_util import dumps
 from secrets import *
 import webbrowser
-import pickle
 app = Flask(__name__)
 
 
